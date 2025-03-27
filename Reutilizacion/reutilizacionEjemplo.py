@@ -74,11 +74,3 @@ rob.ver_bateria()
 
 
 
-Nivel de batería de AT-43: 50/50
-AT-43 realiza 'analizar terreno'. (Batería -10, nivel actual: 40)
-AT-43 realiza 'sacar foto'. (Batería -10, nivel actual: 30)
-AT-43 realiza 'enviar datos'. (Batería -10, nivel actual: 20)
-AT-43 realiza 'patrullar'. (Batería -10, nivel actual: 10)
-Nivel de batería de AT-43: 10/50
-AT-43: \u26a1 Batería recargada al 100%.
-Nivel de batería de AT-43: 50/50
